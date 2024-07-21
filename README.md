@@ -29,7 +29,7 @@ To get started with the File Zipper, follow these steps:
 3. The zip file will be automatically downloaded.
 
 ## Screenshot
-<img align="center" alt="coding" width="750" src="https://github.com/nrkkR/Javascript_Stack-Text-Editor/blob/main/stack%20text%20editor.png">
+<img align="center" alt="coding" width="600" src="https://github.com/nrkkR/Javascript_File-Zipper/blob/main/file%20zipper.png">
 
 
 
